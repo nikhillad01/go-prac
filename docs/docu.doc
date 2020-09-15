@@ -10,3 +10,7 @@ fmt.Print("Hello world \n")
 
 	// %s string
 	// %d for integer 
+
+    var :: declares variable 
+    const :: declares constant
+    Will throw an error if variable declared and not used
