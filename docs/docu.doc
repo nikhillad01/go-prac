@@ -4,7 +4,9 @@ fmt.Print("") // prints in same line unless manually added "\n"
 
 fmt.Print("Hello world \n")
 
+    Dont use underscores in go variables use Camel-case
 
+    new_var would be newVar
 
 	fmt.Printf("Hello %s","Nikhil")		// Uses verbs to fill the dynamic values 
 
